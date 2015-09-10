@@ -18,4 +18,4 @@ RUN useradd -m admin; su admin; cd ~/; wget https://launchpad.net/plone/5.0/5.0b
 EXPOSE 8080
 
 # 
-CMD /bin/bash
+# CMD /bin/bash
